@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minbox.ShapeAreaCalculator", "Minbox.ShapeAreaCalculator\Minbox.ShapeAreaCalculator.csproj", "{7C72B589-4548-401C-8A6C-4E0CA1E4CDB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.ShapeAreaCalculator.Tests", "Mindbox.ShapeAreaCalculator.Tests\Mindbox.ShapeAreaCalculator.Tests.csproj", "{9AF02E0F-76AC-4B8D-88E7-AE74D9D05AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C72B589-4548-401C-8A6C-4E0CA1E4CDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C72B589-4548-401C-8A6C-4E0CA1E4CDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C72B589-4548-401C-8A6C-4E0CA1E4CDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C72B589-4548-401C-8A6C-4E0CA1E4CDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF02E0F-76AC-4B8D-88E7-AE74D9D05AC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF02E0F-76AC-4B8D-88E7-AE74D9D05AC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF02E0F-76AC-4B8D-88E7-AE74D9D05AC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF02E0F-76AC-4B8D-88E7-AE74D9D05AC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82078BDA-B22C-4518-A491-BAA840EEDAC3}
+	EndGlobalSection
+EndGlobal
